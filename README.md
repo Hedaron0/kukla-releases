@@ -1,2 +1,2 @@
 # kukla-releases
-Kukla — installers and update feed (source is private)
+Kukla - installers and update feed (source is private)
